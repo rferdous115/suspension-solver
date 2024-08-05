@@ -1,0 +1,15 @@
+{
+    "hardpoints": [
+        {"name": "trackrod chassis", "x": 0.0, "y": 0.0, "z": 0.0},
+        {"name": "trackrod upright", "x": 0.0, "y": 0.0, "z": 0.0},
+        {"name": "pushrod chassis", "x": 0.0, "y": 0.0, "z": 0.0},
+        {"name": "pushrod upright", "x": 0.0, "y": 0.0, "z": 0.0},
+        {"name": "lower fwd", "x": 0.0, "y": 0.0, "z": 0.0},
+        {"name": "lower rwd", "x": 0.0, "y": 0.0, "z": 0.0},
+        {"name": "lower upright", "x": 0.0, "y": 0.0, "z": 0.0},
+        {"name": "upper fwd", "x": 0.0, "y": 0.0, "z": 0.0},
+        {"name": "upper rwd", "x": 0.0, "y": 0.0, "z": 0.0},
+        {"name": "upper upright", "x": 0.0, "y": 0.0, "z": 0.0},
+        {"name": "contact patch", "x": 0.0, "y": 0.0, "z": 0.0}
+    ]
+}
